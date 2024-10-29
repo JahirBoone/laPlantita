@@ -4,9 +4,6 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
-
-
 = La Plantita - Prototipo de Huerto Inteligente
 
 La Plantita es un prototipo de huerto inteligente diseñado para optimizar el cuidado de las plantas en entornos domésticos o urbanos. Utilizando tecnologías de sensores y automatización, este sistema permite monitorear y ajustar las condiciones de cultivo de manera eficiente, facilitando el crecimiento saludable de las plantas con el mínimo esfuerzo por parte del usuario.
