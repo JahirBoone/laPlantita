@@ -27,15 +27,7 @@ La Plantita es un prototipo de huerto inteligente diseñado para optimizar el cu
 - Monitoreo en Tiempo Real: Accede a la interfaz web para visualizar las condiciones del huerto.
 - Control Manual del Riego: Desde la interfaz, activa o desactiva el riego manualmente si es necesario.
 
-= Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas colaborar, abre un *issue* o envía un *pull request* con mejoras o nuevas características.
-
-= Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo `LICENSE` para más detalles.
-
----
+= Gracias por su apoyo
 
 La Plantita busca ser una solución accesible y práctica para quienes desean incorporar la tecnología en el cuidado de sus plantas, promoviendo la agricultura urbana y la autosuficiencia alimentaria.
 
